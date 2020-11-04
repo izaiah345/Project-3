@@ -8,7 +8,7 @@ class Main {
       {
         System.out.println(names [i]);
       }
-      
+       
 
 
 
