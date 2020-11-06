@@ -12,10 +12,10 @@ class Main {
         names [i] = scan.next();
       }
       
-     int count = 1;
-     while (count <= 15)
+     int count = 0;
+     while (count <= 14)
      {
-        System.out.println(count);
+       System.out.println(names [count] + " sits in seat " + seats [count]);
         count++;
      }
 
